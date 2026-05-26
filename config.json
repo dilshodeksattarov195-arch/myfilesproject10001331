@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "producteerify",
+        "uuid": 609598,
+        "checksum": "ffsby"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
